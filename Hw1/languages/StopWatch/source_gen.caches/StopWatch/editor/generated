@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="aoqnnaz1awbxi8r4l0cu1kmwacq2eot">
+<dependencies version="2" modelHash="-evfgo28m30dsfq3efk7ragg7rlv6emc">
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.openapi.editor.descriptor(MPS.Editor/jetbrains.mps.openapi.editor.descriptor@java_stub)" />
   <dep model="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.lang(JDK/java.lang@java_stub)" />
@@ -8,9 +8,9 @@
   <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" hash="303xz1b2lyseld0axia86q3lpvucmq6" />
   <dep model="r:00000000-0000-4000-0000-011c89590303(jetbrains.mps.lang.smodel.generator.baseLanguage.template.main@generator)" hash="-8z73tx2nml9xagbxlfmq60ehji8q3f5" />
   <dep model="r:b4d7d620-6723-4aa2-856b-118497e84e9e(jetbrains.mps.baseLanguage.generator.java.strings@generator)" hash="b4ewbuz42qcbg1awca5bacgi0vopxqt" />
-  <dep model="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" hash="-cn0adnqd25ul4vf0mbhsgtp2sxhfbjv" />
+  <dep model="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" hash="7s68fhg9ar7o8u7ck2a59shca8h4yvv" />
   <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" hash="a8elw7fctzg6sg8fe36u9gzu42axhdb" />
-  <common hash="9r5s65mfpf282y6sh0rshfxkbdqkg02" dependsOnNodes="true">
+  <common hash="-a8f6mzmc554ubl4hhm6wzhpae0fuklj" dependsOnNodes="true">
     <dep root="8489169350068361777" />
     <dep root="8489169350068368635" />
     <dep root="8489169350068392804" />
@@ -30,7 +30,7 @@
     <dep model="r:f04c1476-2f91-4f59-be13-c8e009abebee(jetbrains.mps.baseLanguageInternal.generator.template.main@generator)" />
     <file name="EditorAspectDescriptorImpl.java" />
   </common>
-  <source id="8489169350068361777" name="StopWatch_Editor" hash="-3si0qsef8ivdfpyeoriceb5exxw2dv7">
+  <source id="8489169350068361777" name="StopWatch_Editor" hash="282qulvu1xeceiekdm27kqkrbagym4s">
     <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c8959029f(jetbrains.mps.lang.editor.generator.baseLanguage.template.main@generator)" />
     <dep model="r:00000000-0000-4000-0000-011c895902cd(jetbrains.mps.baseLanguage.generator.java.main@generator)" />

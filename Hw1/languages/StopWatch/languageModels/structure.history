@@ -24,5 +24,17 @@
     </dependencies>
     <rename id="yx7n.8489169350068340949" type="CONCEPT" from="ButtonsTrio" to="SeparateControl" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="3" />
+    </dependencies>
+    <rename id="yx7n.1518583390381034475" type="PROPERTY" from="dynamic" to="dynamicPresents" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="4" />
+    </dependencies>
+    <rename id="yx7n.1518583390381034475" type="PROPERTY" from="dynamicPresents" to="hasDynamic" />
+  </StructureModification>
 </history>
 

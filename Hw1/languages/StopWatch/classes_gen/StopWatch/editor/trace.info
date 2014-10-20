@@ -16,236 +16,292 @@
     <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="31" startPosition="81" endLine="32" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="32" startPosition="81" endLine="33" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="32" startPosition="81" endLine="33" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="33" startPosition="81" endLine="34" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="33" startPosition="81" endLine="34" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="34" startPosition="80" endLine="35" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
-    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="34" startPosition="80" endLine="35" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="33" startPosition="81" endLine="34" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="33" startPosition="81" endLine="34" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="34" startPosition="81" endLine="35" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="34" startPosition="81" endLine="35" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
     <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="35" startPosition="81" endLine="36" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
     <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="35" startPosition="81" endLine="36" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="36" startPosition="80" endLine="37" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="40" startPosition="88" endLine="41" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="41" startPosition="92" endLine="42" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="42" startPosition="47" endLine="43" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="43" startPosition="34" endLine="44" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="47" startPosition="88" endLine="48" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="48" startPosition="82" endLine="49" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="49" startPosition="30" endLine="50" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="50" startPosition="43" endLine="51" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="51" startPosition="26" endLine="52" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="52" startPosition="58" endLine="53" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="53" startPosition="43" endLine="54" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="54" startPosition="34" endLine="55" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="55" startPosition="63" endLine="56" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="56" startPosition="58" endLine="57" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="57" startPosition="40" endLine="58" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="58" startPosition="73" endLine="59" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="59" startPosition="57" endLine="60" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="61" startPosition="35" endLine="62" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="62" startPosition="72" endLine="63" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="63" startPosition="78" endLine="64" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="65" startPosition="10" endLine="66" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="69" startPosition="88" endLine="70" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="70" startPosition="96" endLine="71" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="71" startPosition="47" endLine="72" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="72" startPosition="34" endLine="73" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="73" startPosition="63" endLine="74" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="74" startPosition="40" endLine="75" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="75" startPosition="34" endLine="76" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="79" startPosition="88" endLine="80" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="80" startPosition="82" endLine="81" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="81" startPosition="33" endLine="82" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="82" startPosition="46" endLine="83" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="83" startPosition="26" endLine="84" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="84" startPosition="58" endLine="85" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="85" startPosition="46" endLine="86" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="86" startPosition="34" endLine="87" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="87" startPosition="63" endLine="88" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="88" startPosition="58" endLine="89" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="89" startPosition="40" endLine="90" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="90" startPosition="73" endLine="91" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="91" startPosition="57" endLine="92" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="93" startPosition="35" endLine="94" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="94" startPosition="72" endLine="95" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="95" startPosition="78" endLine="96" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="97" startPosition="10" endLine="98" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="101" startPosition="88" endLine="102" endPosition="100" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="102" startPosition="100" endLine="103" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="103" startPosition="47" endLine="104" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="104" startPosition="34" endLine="105" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="105" startPosition="63" endLine="106" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="106" startPosition="40" endLine="107" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="107" startPosition="34" endLine="108" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="111" startPosition="87" endLine="112" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="112" startPosition="81" endLine="113" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="113" startPosition="37" endLine="114" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="114" startPosition="50" endLine="115" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="115" startPosition="26" endLine="116" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="117" startPosition="39" endLine="118" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="119" startPosition="5" endLine="120" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="120" startPosition="34" endLine="121" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="121" startPosition="63" endLine="122" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="122" startPosition="58" endLine="123" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="123" startPosition="40" endLine="124" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="124" startPosition="73" endLine="125" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="125" startPosition="57" endLine="126" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="127" startPosition="35" endLine="128" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="128" startPosition="72" endLine="129" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="129" startPosition="78" endLine="130" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="131" startPosition="10" endLine="132" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="135" startPosition="88" endLine="136" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="136" startPosition="94" endLine="137" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="137" startPosition="47" endLine="138" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="138" startPosition="34" endLine="139" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="139" startPosition="63" endLine="140" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="140" startPosition="40" endLine="141" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="141" startPosition="34" endLine="142" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="145" startPosition="87" endLine="146" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="146" startPosition="81" endLine="147" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="147" startPosition="32" endLine="148" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="148" startPosition="45" endLine="149" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="149" startPosition="26" endLine="150" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="151" startPosition="39" endLine="152" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="153" startPosition="5" endLine="154" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="154" startPosition="34" endLine="155" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="155" startPosition="63" endLine="156" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="156" startPosition="58" endLine="157" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="157" startPosition="40" endLine="158" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="158" startPosition="73" endLine="159" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="159" startPosition="57" endLine="160" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="161" startPosition="35" endLine="162" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="162" startPosition="72" endLine="163" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="163" startPosition="78" endLine="164" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="165" startPosition="10" endLine="166" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="36" startPosition="80" endLine="37" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="36" startPosition="80" endLine="37" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="37" startPosition="81" endLine="38" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.BlockStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="37" startPosition="81" endLine="38" endPosition="80" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="38" startPosition="80" endLine="39" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="42" startPosition="88" endLine="43" endPosition="92" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="43" startPosition="92" endLine="44" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="44" startPosition="47" endLine="45" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="45" startPosition="34" endLine="46" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="49" startPosition="88" endLine="50" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="50" startPosition="82" endLine="51" endPosition="30" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="51" startPosition="30" endLine="52" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="52" startPosition="43" endLine="53" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="53" startPosition="26" endLine="54" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="54" startPosition="58" endLine="55" endPosition="43" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="55" startPosition="43" endLine="56" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="56" startPosition="34" endLine="57" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="57" startPosition="63" endLine="58" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="58" startPosition="58" endLine="59" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="59" startPosition="40" endLine="60" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="60" startPosition="73" endLine="61" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="61" startPosition="57" endLine="62" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="63" startPosition="35" endLine="64" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="64" startPosition="72" endLine="65" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="65" startPosition="78" endLine="66" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="67" startPosition="10" endLine="68" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="71" startPosition="88" endLine="72" endPosition="96" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="72" startPosition="96" endLine="73" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="73" startPosition="47" endLine="74" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="74" startPosition="34" endLine="75" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="75" startPosition="63" endLine="76" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="76" startPosition="40" endLine="77" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="77" startPosition="34" endLine="78" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="81" startPosition="88" endLine="82" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="82" startPosition="82" endLine="83" endPosition="33" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="83" startPosition="33" endLine="84" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="84" startPosition="46" endLine="85" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="85" startPosition="26" endLine="86" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="86" startPosition="58" endLine="87" endPosition="46" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="87" startPosition="46" endLine="88" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="88" startPosition="34" endLine="89" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="89" startPosition="63" endLine="90" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="90" startPosition="58" endLine="91" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="91" startPosition="40" endLine="92" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="92" startPosition="73" endLine="93" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="93" startPosition="57" endLine="94" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="95" startPosition="35" endLine="96" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="96" startPosition="72" endLine="97" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="97" startPosition="78" endLine="98" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="99" startPosition="10" endLine="100" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="103" startPosition="88" endLine="104" endPosition="98" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="104" startPosition="98" endLine="105" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="105" startPosition="47" endLine="106" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="106" startPosition="34" endLine="107" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="107" startPosition="63" endLine="108" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="108" startPosition="40" endLine="109" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="109" startPosition="34" endLine="110" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="113" startPosition="88" endLine="114" endPosition="82" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="114" startPosition="82" endLine="115" endPosition="35" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="115" startPosition="35" endLine="116" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="116" startPosition="48" endLine="117" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="117" startPosition="26" endLine="118" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="118" startPosition="58" endLine="119" endPosition="48" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="119" startPosition="48" endLine="120" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="120" startPosition="34" endLine="121" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="121" startPosition="63" endLine="122" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="122" startPosition="58" endLine="123" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="123" startPosition="40" endLine="124" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="124" startPosition="73" endLine="125" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="125" startPosition="57" endLine="126" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="127" startPosition="35" endLine="128" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="128" startPosition="72" endLine="129" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="129" startPosition="78" endLine="130" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="131" startPosition="10" endLine="132" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="135" startPosition="88" endLine="136" endPosition="100" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="136" startPosition="100" endLine="137" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="137" startPosition="47" endLine="138" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="138" startPosition="34" endLine="139" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="139" startPosition="63" endLine="140" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="140" startPosition="40" endLine="141" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="141" startPosition="34" endLine="142" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="145" startPosition="87" endLine="146" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="146" startPosition="81" endLine="147" endPosition="37" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="147" startPosition="37" endLine="148" endPosition="50" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="148" startPosition="50" endLine="149" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="149" startPosition="26" endLine="150" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="151" startPosition="39" endLine="152" endPosition="41" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="153" startPosition="5" endLine="154" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="154" startPosition="34" endLine="155" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="155" startPosition="63" endLine="156" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="156" startPosition="58" endLine="157" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="157" startPosition="40" endLine="158" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="158" startPosition="73" endLine="159" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="159" startPosition="57" endLine="160" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="161" startPosition="35" endLine="162" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="162" startPosition="72" endLine="163" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="163" startPosition="78" endLine="164" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="165" startPosition="10" endLine="166" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="169" startPosition="88" endLine="170" endPosition="94" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="170" startPosition="94" endLine="171" endPosition="47" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="171" startPosition="47" endLine="172" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="172" startPosition="34" endLine="173" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="173" startPosition="63" endLine="174" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="174" startPosition="40" endLine="175" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="175" startPosition="34" endLine="176" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="179" startPosition="87" endLine="180" endPosition="81" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="180" startPosition="81" endLine="181" endPosition="32" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="181" startPosition="32" endLine="182" endPosition="45" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="182" startPosition="45" endLine="183" endPosition="26" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="183" startPosition="26" endLine="184" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="185" startPosition="39" endLine="186" endPosition="36" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="187" startPosition="5" endLine="188" endPosition="34" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="188" startPosition="34" endLine="189" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="189" startPosition="63" endLine="190" endPosition="58" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="190" startPosition="58" endLine="191" endPosition="40" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="191" startPosition="40" endLine="192" endPosition="73" conceptFqName="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="192" startPosition="73" endLine="193" endPosition="57" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="193" startPosition="57" endLine="194" endPosition="59" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="195" startPosition="35" endLine="196" endPosition="72" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="196" startPosition="72" endLine="197" endPosition="78" conceptFqName="jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="197" startPosition="78" endLine="198" endPosition="109" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="199" startPosition="10" endLine="200" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
     <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="21" startPosition="0" endLine="24" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createEditorCell#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="116" startPosition="58" endLine="119" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="150" startPosition="58" endLine="153" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="40" startPosition="0" endLine="46" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_a0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="60" startPosition="59" endLine="66" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="92" startPosition="59" endLine="98" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="126" startPosition="59" endLine="132" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="160" startPosition="59" endLine="166" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
-    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="69" startPosition="0" endLine="78" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_c0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="101" startPosition="0" endLine="110" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_e0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="135" startPosition="0" endLine="144" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_g0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="25" startPosition="0" endLine="39" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createCollection_i2x4bj_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="47" startPosition="0" endLine="68" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createProperty_i2x4bj_b0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="79" startPosition="0" endLine="100" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createProperty_i2x4bj_d0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="111" startPosition="0" endLine="134" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createRefNode_i2x4bj_f0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
-    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="145" startPosition="0" endLine="168" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createRefNode_i2x4bj_h0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="150" startPosition="58" endLine="153" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="184" startPosition="58" endLine="187" endPosition="5" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="42" startPosition="0" endLine="48" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_a0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="62" startPosition="59" endLine="68" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="94" startPosition="59" endLine="100" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="126" startPosition="59" endLine="132" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="160" startPosition="59" endLine="166" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="194" startPosition="59" endLine="200" endPosition="22" conceptFqName="jetbrains.mps.baseLanguage.structure.IfStatement" />
+    <nodeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="71" startPosition="0" endLine="80" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_c0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="103" startPosition="0" endLine="112" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_e0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="135" startPosition="0" endLine="144" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_g0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="169" startPosition="0" endLine="178" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createConstant_i2x4bj_i0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="25" startPosition="0" endLine="41" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createCollection_i2x4bj_a#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="49" startPosition="0" endLine="70" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createProperty_i2x4bj_b0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="81" startPosition="0" endLine="102" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createProperty_i2x4bj_d0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="113" startPosition="0" endLine="134" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createProperty_i2x4bj_f0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="145" startPosition="0" endLine="168" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createRefNode_i2x4bj_h0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
+    <nodeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="179" startPosition="0" endLine="202" endPosition="0" conceptFqName="jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" propertyString="createRefNode_i2x4bj_j0#(Ljetbrains/mps/openapi/editor/EditorContext;Lorg/jetbrains/mps/openapi/model/SNode;)Ljetbrains/mps/openapi/editor/cells/EditorCell;" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="21" startPosition="79" endLine="22" endPosition="63" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="28" startPosition="28" endLine="29" endPosition="81" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="29" startPosition="81" endLine="30" endPosition="81" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="30" startPosition="81" endLine="31" endPosition="81" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="31" startPosition="81" endLine="32" endPosition="81" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="32" startPosition="81" endLine="33" endPosition="81" />
-    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="33" startPosition="81" endLine="34" endPosition="80" />
-    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="34" startPosition="80" endLine="35" endPosition="81" />
+    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="33" startPosition="81" endLine="34" endPosition="81" />
+    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="34" startPosition="81" endLine="35" endPosition="81" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="35" startPosition="81" endLine="36" endPosition="80" />
-    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="117" startPosition="39" endLine="118" endPosition="41" />
-    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="151" startPosition="39" endLine="152" endPosition="36" />
+    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="36" startPosition="80" endLine="37" endPosition="81" />
+    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="37" startPosition="81" endLine="38" endPosition="80" />
+    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="151" startPosition="39" endLine="152" endPosition="41" />
+    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="185" startPosition="39" endLine="186" endPosition="36" />
     <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="21" startPosition="0" endLine="24" endPosition="0">
       <varInfo nodeId="8489169350068361777" varName="editorContext" />
       <varInfo nodeId="8489169350068361777" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="61" startPosition="35" endLine="64" endPosition="109">
+    <scopeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="63" startPosition="35" endLine="66" endPosition="109">
       <varInfo nodeId="8489169350068433616" varName="manager" />
       <varInfo nodeId="8489169350068433616" varName="opContext" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="93" startPosition="35" endLine="96" endPosition="109">
+    <scopeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="95" startPosition="35" endLine="98" endPosition="109">
       <varInfo nodeId="8489169350068363901" varName="manager" />
       <varInfo nodeId="8489169350068363901" varName="opContext" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="127" startPosition="35" endLine="130" endPosition="109">
+    <scopeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="127" startPosition="35" endLine="130" endPosition="109">
+      <varInfo nodeId="1518583390381476152" varName="manager" />
+      <varInfo nodeId="1518583390381476152" varName="opContext" />
+    </scopeInfo>
+    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="161" startPosition="35" endLine="164" endPosition="109">
       <varInfo nodeId="8489169350068363940" varName="manager" />
       <varInfo nodeId="8489169350068363940" varName="opContext" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="161" startPosition="35" endLine="164" endPosition="109">
+    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="195" startPosition="35" endLine="198" endPosition="109">
       <varInfo nodeId="8489169350068376487" varName="manager" />
       <varInfo nodeId="8489169350068376487" varName="opContext" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="40" startPosition="88" endLine="44" endPosition="22">
+    <scopeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="42" startPosition="88" endLine="46" endPosition="22">
       <varInfo nodeId="8489169350068433551" varName="editorCell" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="40" startPosition="0" endLine="46" endPosition="0">
+    <scopeInfo nodeId="8489169350068433551" fileName="StopWatch_Editor.java" startLine="42" startPosition="0" endLine="48" endPosition="0">
       <varInfo nodeId="8489169350068433551" varName="editorContext" />
       <varInfo nodeId="8489169350068433551" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="69" startPosition="88" endLine="76" endPosition="22">
+    <scopeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="71" startPosition="88" endLine="78" endPosition="22">
       <varInfo nodeId="8489169350068363887" varName="editorCell" />
       <varInfo nodeId="8489169350068363887" varName="style" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="101" startPosition="88" endLine="108" endPosition="22">
+    <scopeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="103" startPosition="88" endLine="110" endPosition="22">
+      <varInfo nodeId="1518583390381476108" varName="editorCell" />
+      <varInfo nodeId="1518583390381476108" varName="style" />
+    </scopeInfo>
+    <scopeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="135" startPosition="88" endLine="142" endPosition="22">
       <varInfo nodeId="8489169350068363923" varName="editorCell" />
       <varInfo nodeId="8489169350068363923" varName="style" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="135" startPosition="88" endLine="142" endPosition="22">
+    <scopeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="169" startPosition="88" endLine="176" endPosition="22">
       <varInfo nodeId="8489169350068376458" varName="editorCell" />
       <varInfo nodeId="8489169350068376458" varName="style" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="69" startPosition="0" endLine="78" endPosition="0">
+    <scopeInfo nodeId="8489169350068363887" fileName="StopWatch_Editor.java" startLine="71" startPosition="0" endLine="80" endPosition="0">
       <varInfo nodeId="8489169350068363887" varName="editorContext" />
       <varInfo nodeId="8489169350068363887" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="101" startPosition="0" endLine="110" endPosition="0">
+    <scopeInfo nodeId="1518583390381476108" fileName="StopWatch_Editor.java" startLine="103" startPosition="0" endLine="112" endPosition="0">
+      <varInfo nodeId="1518583390381476108" varName="editorContext" />
+      <varInfo nodeId="1518583390381476108" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="8489169350068363923" fileName="StopWatch_Editor.java" startLine="135" startPosition="0" endLine="144" endPosition="0">
       <varInfo nodeId="8489169350068363923" varName="editorContext" />
       <varInfo nodeId="8489169350068363923" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="135" startPosition="0" endLine="144" endPosition="0">
+    <scopeInfo nodeId="8489169350068376458" fileName="StopWatch_Editor.java" startLine="169" startPosition="0" endLine="178" endPosition="0">
       <varInfo nodeId="8489169350068376458" varName="editorContext" />
       <varInfo nodeId="8489169350068376458" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="25" startPosition="89" endLine="37" endPosition="22">
+    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="25" startPosition="89" endLine="39" endPosition="22">
       <varInfo nodeId="8489169350068361777" varName="editorCell" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="25" startPosition="0" endLine="39" endPosition="0">
+    <scopeInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="25" startPosition="0" endLine="41" endPosition="0">
       <varInfo nodeId="8489169350068361777" varName="editorContext" />
       <varInfo nodeId="8489169350068361777" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="47" startPosition="88" endLine="66" endPosition="22">
+    <scopeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="49" startPosition="88" endLine="68" endPosition="22">
       <varInfo nodeId="8489169350068433616" varName="attributeConcept" />
       <varInfo nodeId="8489169350068433616" varName="attributeKind" />
       <varInfo nodeId="8489169350068433616" varName="editorCell" />
       <varInfo nodeId="8489169350068433616" varName="provider" />
       <varInfo nodeId="8489169350068433616" varName="style" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="79" startPosition="88" endLine="98" endPosition="22">
+    <scopeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="81" startPosition="88" endLine="100" endPosition="22">
       <varInfo nodeId="8489169350068363901" varName="attributeConcept" />
       <varInfo nodeId="8489169350068363901" varName="attributeKind" />
       <varInfo nodeId="8489169350068363901" varName="editorCell" />
       <varInfo nodeId="8489169350068363901" varName="provider" />
       <varInfo nodeId="8489169350068363901" varName="style" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="47" startPosition="0" endLine="68" endPosition="0">
+    <scopeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="113" startPosition="88" endLine="132" endPosition="22">
+      <varInfo nodeId="1518583390381476152" varName="attributeConcept" />
+      <varInfo nodeId="1518583390381476152" varName="attributeKind" />
+      <varInfo nodeId="1518583390381476152" varName="editorCell" />
+      <varInfo nodeId="1518583390381476152" varName="provider" />
+      <varInfo nodeId="1518583390381476152" varName="style" />
+    </scopeInfo>
+    <scopeInfo nodeId="8489169350068433616" fileName="StopWatch_Editor.java" startLine="49" startPosition="0" endLine="70" endPosition="0">
       <varInfo nodeId="8489169350068433616" varName="editorContext" />
       <varInfo nodeId="8489169350068433616" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="79" startPosition="0" endLine="100" endPosition="0">
+    <scopeInfo nodeId="8489169350068363901" fileName="StopWatch_Editor.java" startLine="81" startPosition="0" endLine="102" endPosition="0">
       <varInfo nodeId="8489169350068363901" varName="editorContext" />
       <varInfo nodeId="8489169350068363901" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="111" startPosition="87" endLine="132" endPosition="22">
+    <scopeInfo nodeId="1518583390381476152" fileName="StopWatch_Editor.java" startLine="113" startPosition="0" endLine="134" endPosition="0">
+      <varInfo nodeId="1518583390381476152" varName="editorContext" />
+      <varInfo nodeId="1518583390381476152" varName="node" />
+    </scopeInfo>
+    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="145" startPosition="87" endLine="166" endPosition="22">
       <varInfo nodeId="8489169350068363940" varName="attributeConcept" />
       <varInfo nodeId="8489169350068363940" varName="attributeKind" />
       <varInfo nodeId="8489169350068363940" varName="editorCell" />
       <varInfo nodeId="8489169350068363940" varName="provider" />
       <varInfo nodeId="8489169350068363940" varName="style" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="145" startPosition="87" endLine="166" endPosition="22">
+    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="179" startPosition="87" endLine="200" endPosition="22">
       <varInfo nodeId="8489169350068376487" varName="attributeConcept" />
       <varInfo nodeId="8489169350068376487" varName="attributeKind" />
       <varInfo nodeId="8489169350068376487" varName="editorCell" />
       <varInfo nodeId="8489169350068376487" varName="provider" />
       <varInfo nodeId="8489169350068376487" varName="style" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="111" startPosition="0" endLine="134" endPosition="0">
+    <scopeInfo nodeId="8489169350068363940" fileName="StopWatch_Editor.java" startLine="145" startPosition="0" endLine="168" endPosition="0">
       <varInfo nodeId="8489169350068363940" varName="editorContext" />
       <varInfo nodeId="8489169350068363940" varName="node" />
     </scopeInfo>
-    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="145" startPosition="0" endLine="168" endPosition="0">
+    <scopeInfo nodeId="8489169350068376487" fileName="StopWatch_Editor.java" startLine="179" startPosition="0" endLine="202" endPosition="0">
       <varInfo nodeId="8489169350068376487" varName="editorContext" />
       <varInfo nodeId="8489169350068376487" varName="node" />
     </scopeInfo>
-    <unitInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="20" startPosition="0" endLine="169" endPosition="0" unitName="StopWatch.editor.StopWatch_Editor" />
+    <unitInfo nodeId="8489169350068361777" fileName="StopWatch_Editor.java" startLine="20" startPosition="0" endLine="203" endPosition="0" unitName="StopWatch.editor.StopWatch_Editor" />
   </root>
   <root nodeRef="r:17583d8a-823b-43c5-ab9b-de2f3afafda1(StopWatch.editor)/8489169350068368635">
     <nodeInfo nodeId="8489169350068368635" fileName="DigitalDisplay_Editor.java" startLine="20" startPosition="79" endLine="21" endPosition="63" conceptFqName="jetbrains.mps.baseLanguage.structure.ReturnStatement" />

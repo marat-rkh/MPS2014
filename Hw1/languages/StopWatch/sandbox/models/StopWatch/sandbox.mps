@@ -3,13 +3,14 @@
   <persistence version="8" />
   <language namespace="39d9e379-6b16-4b3f-927d-f3eccc4223f5(StopWatch)" />
   <language namespace="ceab5195-25ea-4f22-9b92-103b95ca8c0c(jetbrains.mps.lang.core)" />
+  <import index="1t7x" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.awt(JDK/java.awt@java_stub)" version="-1" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
-  <import index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="3" implicit="yes" />
-  <import index="1t7x" modelUID="f:java_stub#6354ebe7-c22a-4a0f-ac54-50b52ab9b065#java.awt(JDK/java.awt@java_stub)" version="-1" implicit="yes" />
+  <import index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="5" implicit="yes" />
   <root type="yx7n.StopWatch" typeId="yx7n.8489169350068171241" id="8489169350068764178" nodeInfo="ng">
     <property name="shape" nameId="yx7n.8489169350068433515" value="hexagonal" />
     <property name="caseType" nameId="yx7n.8489169350068181399" value="plastic" />
     <property name="name" nameId="tpck.1169194664001" value="DIgitalWithHighlighting" />
+    <property name="hasDynamic" nameId="yx7n.1518583390381034475" value="true" />
     <node role="controlPanel" roleId="yx7n.8489169350068351783" type="yx7n.SeparateControl" typeId="yx7n.8489169350068340949" id="8489169350068764234" nodeInfo="ng">
       <node role="startButton" roleId="yx7n.8489169350068343103" type="yx7n.Button" typeId="yx7n.8489169350068340852" id="8489169350068764236" nodeInfo="ng">
         <property name="name" nameId="yx7n.8489169350068340945" value="start" />
