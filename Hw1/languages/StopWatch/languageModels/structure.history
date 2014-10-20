@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="-1" />
+    </dependencies>
+    <rename id="yx7n.8489169350068340949" type="CONCEPT" from="ButtonsBunch" to="ButtonsTrio" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="0" />
+    </dependencies>
+    <rename id="yx7n.8489169350068343744" type="CONCEPT" from="ControlPanel" to="ControlElement" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="1" />
+    </dependencies>
+    <rename id="yx7n.8489169350068343744" type="CONCEPT" from="ControlElement" to="ControlPanel" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="2" />
+    </dependencies>
+    <rename id="yx7n.8489169350068340949" type="CONCEPT" from="ButtonsTrio" to="SeparateControl" />
+  </StructureModification>
+</history>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="bmh3501neac8i2hmonvq3nuux59ifq6">
+  <common hash="-deb25wqiksmczt6lkzltahedw5hn6xp" />
+  <source id="8489169350068764178" name="DIgitalWithHighlighting" hash="-c6v09cmfzrfpo18z22al4yvw434h2bm">
+    <file name="DIgitalWithHighlighting" />
+  </source>
+  <source id="8489169350068764377" name="Standard" hash="dx5fct6082gl3jb6yfyk513lym25p4f">
+    <file name="Standard" />
+  </source>
+  <source id="8489169350068764484" name="ExoticWooden" hash="-6lqjyb64s2ww8eoli0uihrh3vebeegy">
+    <file name="ExoticWooden" />
+  </source>
+</dependencies>
+

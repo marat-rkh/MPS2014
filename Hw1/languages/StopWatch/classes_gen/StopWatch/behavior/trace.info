@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debugInfo>
+  <unitInfo fileName="AnalogDisplay_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="StopWatch.behavior.AnalogDisplay_BehaviorDescriptor" />
+  <unitInfo fileName="BehaviorAspectDescriptor.java" startLine="9" startPosition="0" endLine="38" endPosition="0" unitName="StopWatch.behavior.BehaviorAspectDescriptor" />
+  <unitInfo fileName="Button_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="StopWatch.behavior.Button_BehaviorDescriptor" />
+  <unitInfo fileName="ColorRef_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="StopWatch.behavior.ColorRef_BehaviorDescriptor" />
+  <unitInfo fileName="ControlPanel_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="StopWatch.behavior.ControlPanel_BehaviorDescriptor" />
+  <unitInfo fileName="DigitalDisplay_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="StopWatch.behavior.DigitalDisplay_BehaviorDescriptor" />
+  <unitInfo fileName="Display_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="StopWatch.behavior.Display_BehaviorDescriptor" />
+  <unitInfo fileName="Highlighting_BehaviorDescriptor.java" startLine="7" startPosition="0" endLine="16" endPosition="0" unitName="StopWatch.behavior.Highlighting_BehaviorDescriptor" />
+  <unitInfo fileName="SeparateControl_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="StopWatch.behavior.SeparateControl_BehaviorDescriptor" />
+  <unitInfo fileName="StopWatch_BehaviorDescriptor.java" startLine="10" startPosition="0" endLine="23" endPosition="0" unitName="StopWatch.behavior.StopWatch_BehaviorDescriptor" />
+  <unitInfo fileName="UniversalControl_BehaviorDescriptor.java" startLine="6" startPosition="0" endLine="15" endPosition="0" unitName="StopWatch.behavior.UniversalControl_BehaviorDescriptor" />
+</debugInfo>
+
