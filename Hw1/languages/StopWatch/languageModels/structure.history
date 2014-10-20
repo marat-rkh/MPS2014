@@ -36,5 +36,11 @@
     </dependencies>
     <rename id="yx7n.1518583390381034475" type="PROPERTY" from="dynamicPresents" to="hasDynamic" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="yx7n" modelUID="r:ea8b2ce7-d876-4315-bae4-cdb8554203e9(StopWatch.structure)" version="5" />
+    </dependencies>
+    <rename id="yx7n.1518583390381034475" type="PROPERTY" from="hasDynamic" to="hasSpeaker" />
+  </StructureModification>
 </history>
 

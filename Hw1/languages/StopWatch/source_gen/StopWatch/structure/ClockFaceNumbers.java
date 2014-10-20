@@ -7,7 +7,7 @@ import jetbrains.mps.internal.collections.runtime.ListSequence;
 import jetbrains.mps.internal.collections.runtime.backports.LinkedList;
 
 public enum ClockFaceNumbers {
-  arable("arable", "arable"),
+  arabic("arabic", "arabic"),
   roman("roman", "roman");
 
   private String myName;
@@ -22,21 +22,21 @@ public enum ClockFaceNumbers {
 
   public static List<ClockFaceNumbers> getConstants() {
     List<ClockFaceNumbers> list = ListSequence.fromList(new LinkedList<ClockFaceNumbers>());
-    ListSequence.fromList(list).addElement(ClockFaceNumbers.arable);
+    ListSequence.fromList(list).addElement(ClockFaceNumbers.arabic);
     ListSequence.fromList(list).addElement(ClockFaceNumbers.roman);
     return list;
   }
 
   public static ClockFaceNumbers getDefault() {
-    return ClockFaceNumbers.arable;
+    return ClockFaceNumbers.arabic;
   }
 
   public static ClockFaceNumbers parseValue(String value) {
     if (value == null) {
       return ClockFaceNumbers.getDefault();
     }
-    if (value.equals(ClockFaceNumbers.arable.getValueAsString())) {
-      return ClockFaceNumbers.arable;
+    if (value.equals(ClockFaceNumbers.arabic.getValueAsString())) {
+      return ClockFaceNumbers.arabic;
     }
     if (value.equals(ClockFaceNumbers.roman.getValueAsString())) {
       return ClockFaceNumbers.roman;

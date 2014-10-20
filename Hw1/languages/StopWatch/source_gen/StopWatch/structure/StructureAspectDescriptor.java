@@ -30,7 +30,7 @@ public class StructureAspectDescriptor implements jetbrains.mps.smodel.runtime.S
       case 7:
         return new ConceptDescriptorBuilder("StopWatch.structure.SeparateControl").super_("StopWatch.structure.ControlPanel").parents("StopWatch.structure.ControlPanel").children(new String[]{"startButton", "stopButton", "resetButton"}, new boolean[]{false, false, false}).create();
       case 8:
-        return new ConceptDescriptorBuilder("StopWatch.structure.StopWatch").super_("jetbrains.mps.lang.core.structure.BaseConcept").parents("jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept").properties("shape", "caseType", "hasDynamic").children(new String[]{"controlPanel", "display"}, new boolean[]{false, false}).alias("stop_watch", "").create();
+        return new ConceptDescriptorBuilder("StopWatch.structure.StopWatch").super_("jetbrains.mps.lang.core.structure.BaseConcept").parents("jetbrains.mps.lang.core.structure.BaseConcept", "jetbrains.mps.lang.core.structure.INamedConcept").properties("shape", "caseType", "hasSpeaker").children(new String[]{"controlPanel", "display"}, new boolean[]{false, false}).alias("stop_watch", "").create();
       case 9:
         return new ConceptDescriptorBuilder("StopWatch.structure.UniversalControl").super_("StopWatch.structure.ControlPanel").parents("StopWatch.structure.ControlPanel").children(new String[]{"universalButton"}, new boolean[]{false}).create();
       default:

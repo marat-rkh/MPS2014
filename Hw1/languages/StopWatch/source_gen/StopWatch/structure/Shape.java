@@ -9,7 +9,7 @@ import jetbrains.mps.internal.collections.runtime.backports.LinkedList;
 public enum Shape {
   circle("circle", "circle"),
   square("square", "square"),
-  hexagonal("hexagonal", "hexagonal");
+  octagonal("octagonal", "octagonal");
 
   private String myName;
 
@@ -25,7 +25,7 @@ public enum Shape {
     List<Shape> list = ListSequence.fromList(new LinkedList<Shape>());
     ListSequence.fromList(list).addElement(Shape.circle);
     ListSequence.fromList(list).addElement(Shape.square);
-    ListSequence.fromList(list).addElement(Shape.hexagonal);
+    ListSequence.fromList(list).addElement(Shape.octagonal);
     return list;
   }
 
@@ -43,8 +43,8 @@ public enum Shape {
     if (value.equals(Shape.square.getValueAsString())) {
       return Shape.square;
     }
-    if (value.equals(Shape.hexagonal.getValueAsString())) {
-      return Shape.hexagonal;
+    if (value.equals(Shape.octagonal.getValueAsString())) {
+      return Shape.octagonal;
     }
     return Shape.getDefault();
   }

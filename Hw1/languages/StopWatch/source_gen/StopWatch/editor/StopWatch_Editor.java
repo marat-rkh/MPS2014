@@ -101,7 +101,7 @@ public class StopWatch_Editor extends DefaultNodeEditor {
   }
 
   private EditorCell createConstant_i2x4bj_e0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "has dynamic:");
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "has speaker:");
     editorCell.setCellId("Constant_i2x4bj_e0");
     Style style = new StyleImpl();
     style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
@@ -112,11 +112,11 @@ public class StopWatch_Editor extends DefaultNodeEditor {
 
   private EditorCell createProperty_i2x4bj_f0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new PropertyCellProvider(node, editorContext);
-    provider.setRole("hasDynamic");
-    provider.setNoTargetText("<no hasDynamic>");
+    provider.setRole("hasSpeaker");
+    provider.setNoTargetText("<no hasSpeaker>");
     EditorCell editorCell;
     editorCell = provider.createEditorCell(editorContext);
-    editorCell.setCellId("property_hasDynamic");
+    editorCell.setCellId("property_hasSpeaker");
     Style style = new StyleImpl();
     style.set(StyleAttributes.INDENT_LAYOUT_ON_NEW_LINE, true);
     style.set(StyleAttributes.INDENT_LAYOUT_INDENT, true);
