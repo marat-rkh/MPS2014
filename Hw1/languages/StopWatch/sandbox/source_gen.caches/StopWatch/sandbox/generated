@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-2h9gavi17ociutgdk338ckwqozl0ub">
+<dependencies version="2" modelHash="cfskr0uyox9brvze2qa403vmxqbbus">
   <common hash="-3gdb1hb4273atecxm62o18k8nrt2sjo" />
-  <source id="8489169350068764178" name="DIgitalWithHighlighting" hash="-4krr3n5zad0zdcdqx8bl9tk3cgt0bqo">
-    <file name="DIgitalWithHighlighting" />
+  <source id="8489169350068764178" name="DigitalWithHighlighting" hash="-cci155xoapqj4ybm4nkt8ts1apbj2iz">
+    <file name="DigitalWithHighlighting" />
   </source>
   <source id="8489169350068764377" name="Standard" hash="-b3xk6nwiltgtyzmdhizpt3rk1dbx1ws">
     <file name="Standard" />
